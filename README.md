@@ -14,16 +14,14 @@ This project analyzes real-time data from the DHT11 sensor using Python and Goog
 2. Upload your DHT11 CSV data
 3. Run the notebook: `dht11_analysis.ipynb`
 
-## 📷 Example Output
+## 📷 Image Output
 
-Place your output plots in the `images/` folder. For example:
-
-![temp_plot](images/temp_plot.png)
+![temp_plot](imaes/temp_plot.png)
 
 ## 📦 Requirements
 See `requirements.txt` or run the notebook in Colab (recommended).
 
 ## 🧑‍💻 Author
-Created by [Your Name] as part of a portfolio for master's scholarship to Japan 🇯🇵
+Created by [Bivo Muhandeza] as part of a portfolio for master's scholarship to Japan 🇯🇵
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/DHT11-Temperature-Analysis/blob/main/dht11_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bivomuh/DHT11-Temperature-Analysis/blob/main/dht11_analysis.ipynb)
