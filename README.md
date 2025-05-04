@@ -16,7 +16,7 @@ This project analyzes real-time data from the DHT11 sensor using Python and Goog
 
 ## 📷 Image Output
 
-![temp_plot](imaes/temp_plot.png)
+![temp_plot](images/temp_plot.png)
 
 ## 📦 Requirements
 See `requirements.txt` or run the notebook in Colab (recommended).
